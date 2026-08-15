@@ -2,7 +2,7 @@
 
 # Micrograd
 
-!
+![meoww](image.png)
 
 
 A tiny, transparent Autograd engine and neural network library implementing reverse-mode automatic differentiation over a dynamically built Directed Acyclic Graph (DAG) with a PyTorch-like API.
